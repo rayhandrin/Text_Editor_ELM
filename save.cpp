@@ -4,7 +4,7 @@
 
 using namespace std;
 
-
+//Check Apakah file yang terdapat didalam folder sudah dibuat atau masih belum dibuat
 void isFileExist(string namaFileSave, bool *check){
 	fstream File_A;
 	string path = namaFileSave+".txt";
@@ -17,6 +17,7 @@ void isFileExist(string namaFileSave, bool *check){
 	}
 }
 
+//modul untuk save file
 void saveFile(string namaFileSave){
 	fstream File_A;
 	bool check;
@@ -36,6 +37,7 @@ void saveFile(string namaFileSave){
 	File_A.close();
 };
 
+//modul untuk memberikan nama file yang sesuai ketika di save
 void inputNamaFile(){
 	string inputNamaFile;
 	

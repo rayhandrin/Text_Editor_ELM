@@ -23,7 +23,7 @@ void copyIsiFile(char filename[8]) {
     FILE *sourceFile;
     FILE *destinationFile;
 
-    sourceFile      = fopen ("oldFile.txt", "rt+");
+    sourceFile = fopen ("oldFile.txt", "rt+");
     if (sourceFile == NULL) {
         perror ("Source file doesn't exist in this directory!");
         exit(1);

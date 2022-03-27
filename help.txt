@@ -1,0 +1,39 @@
+ELM TEXT EDITOR ============================================================ [v0.1]
+
+A. PERKENALAN APLIKASI
+ELM Text Editor merupakan sebuah software yang memungkinkan pengguna untuk membuka, 
+melihat, dan mengedit file plain text atau teks biasa. Software ini dibuat 
+menggunakan bahasa pemrograman C/C++. 
+
+B. FUNGSIONALITAS
+ELM Text Editor memiliki beberapa fitur
+1. Open     : Membuka file dokumen yang tersimpan di komputer.
+2. New      : Mebuka dokumen lembar kerja baru.
+3. Save     : Memperbarui file yang terakhir disimpan dengan konten terbaru.
+4. Save As  : Menyimpan file baru atau menyimpan file yang sudah ada ke lokasi baru
+              dengan nama yang sama atau berbeda.
+5. Quit     : Keluar dari program.
+
+    B.1 HOTKEYS
+    Berikut beberapa shortcut yang dapat digunakan dalam ELM Text Editor
+    1. CTRL + O : Open File
+    2. CTRL + U : Quit Text Exitor
+    3. CTRL + S : Save File
+    4. CTRL + G : Cursor Mode
+    5. CTRL + \ : Save As
+    6. CTRL + F : Find
+
+C. PEMBUAT
+ELM Text Editor ini dibuat oleh kelompok ELM yang dimanajeri oleh Bapak Ferry 
+Feirizal, BSCS., M.Kom.
+Anggota kelompok ELM :
+1. Adilla Rachmawati Pradana    (211511002)
+2. Aldrin Rayhan Putra          (211511003)
+3. Devina Lusiana               (211511011) 
+4. M.Fatur Maulidan             (211511020)
+5. Rofi Fauzan Al Habieb        (211511029)
+
+Sebagian teknik diambil dari
+    https://github.com/jason-kills-u/Ewindows
+
+=================================================================== ELM TEXT EDITOR
